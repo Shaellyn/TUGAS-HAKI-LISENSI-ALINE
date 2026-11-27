@@ -1,5 +1,5 @@
 
-# TUGAS-HAKI-LISENSI-ALINE
+# TUGAS-LISENSI-HAKI-ALINE
 Tugas untuk membuat lisensi haki
 
 <h3>Identitas Produk Perangkat Lunak</h3>
