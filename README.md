@@ -1,3 +1,4 @@
+
 # TUGAS-HAKI-LISENSI-ALINE
 Tugas untuk membuat lisensi haki
 
@@ -27,7 +28,8 @@ dilindungi undang-undang.
 <br><br>2. Merek (Trademark):
 <br><br>○ Nama Brand: KapuPay
 <br><br>○ Logo & Elemen Visual: 
-Logo ikon dengan gambar rumah minang minimalis ,yang
+<br><img width="200" height="200" alt="WhatsApp Image 2026-11-27 at 19 59 18" src="https://github.com/user-attachments/assets/a105b030-d28b-4029-8139-08bdd7bebfbd" />
+<br>Logo ikon dengan gambar rumah minang minimalis ,yang
 dibawahnya terdapat tulisan kapuPay dengan warna utama biru dan putih
 <br><br>○ Fungsi Perlindungan: Mencegah pengembang lain membuat aplikasi kasir serupa dengan
 nama atau logo yang membingungkan konsumen.
