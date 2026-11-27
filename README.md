@@ -1,14 +1,14 @@
 # TUGAS-HAKI-LISENSI-ALINE
 Tugas untuk membuat lisensi
 
-Identitas Produk Perangkat Lunak
+<h3>Identitas Produk Perangkat Lunak</h3>
 1. Nama Aplikasi / Software: KapuPay
 2. Kategori Produk: Aplikasi Kasir & Manajemen Stok UMKM Berbasis Website
 3. Deskripsi Singkat Fungsi Aplikasi:
 KapuPay adalah aplikasi kasir digital berbasis web yang dirancang untuk membantu Usaha
 UMKM IndoKapau dalam pencatatan transaksi penjualan , manajemen stok dan laporan
 keuangan.
-B. Analisis Perlindungan HAKI Produk
+<h3>Analisis Perlindungan HAKI Produk</h3>
 1. Hak Cipta (Copyright):
 ○ Objek Yang Dilindungi:
 ■ Kode Sumber (Source Code)
